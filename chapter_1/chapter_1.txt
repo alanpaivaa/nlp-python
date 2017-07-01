@@ -1,0 +1,6 @@
+- Word type: is the form or spelling of the word independently of its specif occurences in a text, that is, the word considered as a unique item of vocabulary;
+- types: punctuation;
+- Frequency Distribution;
+- Collocation: is a sequence of words that occur together unusually often. A characteristic of collocations is that they are resistant to substitution with words
+that have similar senses; for example, maroon wine sounds definitely odd.
+- Bigrams: list of two words;
