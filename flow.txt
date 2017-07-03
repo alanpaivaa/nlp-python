@@ -1,0 +1,24 @@
+- Get the raw text;
+
+- Raw text processing;
+	- Stemming;
+	- Lemmatizing;
+	- Tokenizing;
+
+- Text classification:
+	- Bag of words modelling;
+	- Select algorithm for classification;
+	- Training;
+	- Evaluation (accuracy, precision and recall);
+
+- Information extraction:
+
+    - Part of Speech (PoS) tagging:
+        - Training with portuguese data;
+        - Choose between the different taggers;
+        - Evaluation (accuracy, precision and recall);
+
+    - Entity Detection;
+        - Write the chunking grammar;
+        - Train with portuguese data;
+        - Evaluate the chunker;

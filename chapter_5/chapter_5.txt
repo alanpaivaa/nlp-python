@@ -1,0 +1,5 @@
+Automatic Tagging:
+- Default Tagger;
+- Regex Tagger;
+- Lookup Tagger;
+    - With backoff (default)
