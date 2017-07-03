@@ -1,0 +1,45 @@
+- Paperspace:
+    - 8 CPU;
+    - 8GB GPU;
+    - 30GB RAM;
+    - 50GB SSD;
+    - US$ 198 monthly = US$ 0.4 hourly;
+
+- Amazon EC2 p2.xlarge: https://aws.amazon.com/pt/ec2/pricing/on-demand/
+    - GPU;
+    - 4 CPU;
+    - 61GB RAM;
+    - US$ 648 ~= US$ 0.9;
+
+- Google Cloud Engine: https://cloud.google.com/products/calculator/#id=7747e036-008e-4b95-9746-398b28d50518
+    - 8 CPU;
+    - 30GB RAM;
+    - Nvdia Tesla K80;
+    - 375GB SSD;
+    - US$ 767.50 monthly ~= US$ 1.07 hourly;
+
+- Exoescale: https://www.exoscale.ch/pricing/#/gpu
+    - 1 GPU;
+    - 56GB RAM;
+    - 12 CPU;
+    - 800GB SSD;
+    - US$ 1.091 monthly ~= US$ 1.51 hourly;
+
+- Nimbix: https://www.nimbix.net/nimbix-cloud-demand-pricing/
+    - 4 CPU;
+    - 32GB RAM;
+    - 0 GPU;
+    - US$ 489.6 monthly ~= US$ 0.68 hourly;
+
+- Outscale mv3.xlarge: https://en.outscale.com/pricing/
+    - 4 CPU;
+    - 15GB RAM;
+    - 1 GPU;
+    - Euro$ 705.6 ~= Euro$ 0,980
+
+- Rescale: http://www.rescale.com/pricing/
+    - There is no further description of prices, but it says that
+    the CPU per hour costs US$ 0.40;
+
+- Providers with HPC (High Performance Computing) not affordable:
+    - Cirrascale: http://www.cirrascale.com/cloud/plans.aspx;
