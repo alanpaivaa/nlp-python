@@ -1,0 +1,508 @@
+Motorista de Guincho
+Motorista de Ônibus
+Motorista Entregador
+Motorista Escolar
+Motorista Executivo
+Motorista Operador de Betoneira
+Museólogo
+Músico
+Musicoterapeuta
+Naturólogo
+Neuropsicólogo
+Nivelador
+Nutricionista
+Nutricionista Clínico
+Nutricionista Comercial
+Nutricionista de Produção
+Nutricionista de Qualidade
+Nutricionista do Esporte
+Oceanógrafo
+Office-boy
+Oficial de Manutenção
+Oficial de Manutenção Predial
+Oficial de Redes
+Oficial de Refrigeração
+Oficial Eletricista
+Oficial Mecânico
+Oficial Serralheiro
+Operador Audiovisual
+Operador de Áudio
+Operador de Balança Rodoviária
+Operador de Bomba de Concreto
+Operador de Caixa
+Operador de Calandra
+Operador de Caldeira
+Operador de Call Center
+Operador de Câmaras Frias
+Operador de Câmbio
+Operador de Central de Concreto
+Operador de Centro de Usinagem
+Operador de CFTV
+Operador de CNC
+Operador de Cobrança
+Operador de Coladeira
+Operador de Computador
+Operador de Controle Mestre
+Operador de Corte e Dobra
+Operador de Corte e Solda
+Operador de Corte e Vinco
+Operador de Dobradeira
+Operador de Eletroerosão
+Operador de Empilhadeira
+Operador de Equipamento
+Operador de Escavadeira
+Operador de Estação de Tratamento de Águas e Efluentes
+Operador de Estacionamento
+Operador de Extrusora
+Operador de Factoring
+Operador de Furadeira
+Operador de Guilhotina
+Operador de Guincho
+Operador de Guindaste
+Operador de Injetora
+Operador de Laminação
+Operador de Lixadeira
+Operador de Logística
+Operador de Máquina
+Operador de Máquina Agrícola
+Operador de Máquina Copiadora
+Operador de Máquina de Corte
+Operador de Máquina de Sopro
+Operador de Máquina Perfuratriz
+Operador de Mesa
+Operador de Monitoramento
+Operador de Montagem
+Operador de Motoniveladora
+Operador de Motosserra
+Operador de Negócios
+Operador de Onduladeira
+Operador de Pá Carregadeira
+Operador de Perfiladeira
+Operador de Photoshop
+Operador de Plotter
+Operador de Ponte Rolante
+Operador de Prensa
+Operador de Processos Químicos
+Operador de Puncionadeira
+Operador de Rádio
+Operador de Rama
+Operador de Rastreamento
+Operador de Rebocador
+Operador de Redes
+Operador de Refrigeração
+Operador de Retificadora
+Operador de Retroescavadeira
+Operador de Rolo Compactador
+Operador de Sala de Máquinas
+Operador de Serra
+Operador de Telemarketing
+Operador de Televendas
+Operador de Torno
+Operador de Torno Automático
+Operador de Torno CNC
+Operador de Tráfego
+Operador de Turismo
+Operador de Utilidades
+Operador de Zincagem
+Operador Mantenedor
+Orçamentista
+Orçamentista Civil
+Orientador Educacional
+Orientador Sócio Educativo
+Ourives
+Padeiro
+Paisagista
+Palestrante
+Panfleteiro
+Passador
+Pedagogo
+Pedagogo Empresarial
+Pedreiro
+Peixeiro
+Perfumista
+Perito Judicial
+Personal Stylist
+Personal Trainer
+Pesador
+Pesquisador
+Pesquisador de Mercado
+Piloteiro
+Piloto Agrícola
+Piloto de Avião
+Piloto de Helicóptero
+Piloto de Testes
+Pintor
+Pintor Automotivo
+Pintor de Estruturas Metálicas
+Pintor de Móveis
+Pintor de Obras
+Pintor Eletrostático
+Pizzaiolo
+Planejador de Produção
+Planejador de Projetos
+Podólogo
+Polidor
+Polidor de Metais
+Polidor de Veículos
+Porteiro
+Prensista
+Preparador de Autos
+Preparador de CNC
+Preparador de Máquina Injetora
+Preparador de Máquinas
+Preparador de Pintura
+Preparador de Tintas
+Preparador de Torno
+Preparador Físico
+Processista
+Produtor Artístico
+Produtor Cultural
+Produtor de Casting
+Produtor de Eventos
+Produtor de Moda
+Produtor de Televisão
+Produtor de Vídeo
+Produtor Editorial
+Produtor Gráfico
+Produtor Musical
+Professor
+Professor Auxiliar
+Professor de Administração de Empresas
+Professor de Administração Pública
+Professor de Agronomia
+Professor de Alemão
+Professor de Anatomia
+Professor de Árabe
+Professor de Arquitetura e Urbanismo
+Professor de Artes Cênicas
+Professor de Artes Marciais
+Professor de Artesanato
+Professor de AutoCAD
+Professor de Automação Industrial
+Professor de Biologia
+Professor de Biomedicina
+Professor de Cálculo
+Professor de Canto
+Professor de Capoeira
+Professor de Ciência da Computação
+Professor de Ciências Contábeis
+Professor de Circo
+Professor de Comércio Exterior
+Professor de Computação Gráfica
+Professor de Comunicação Social
+Professor de Comunicação Visual
+Professor de Construção Civil
+Professor de CorelDRAW
+Professor de Costura
+Professor de Dança
+Professor de Departamento Pessoal
+Professor de Desenho Técnico
+Professor de Design de Interiores
+Professor de Design Gráfico
+Professor de Direito
+Professor de Direito Administrativo
+Professor de Direito Constitucional
+Professor de Direito Penal
+Professor de Direito Tributário
+Professor de Economia
+Professor de Edificações
+Professor de Educação Artística
+Professor de Educação Especial
+Professor de Educação Física
+Professor de Educação Infantil
+Professor de Elétrica
+Professor de Eletrônica
+Professor de Eletrotécnica
+Professor de Empreendedorismo
+Professor de Enfermagem
+Professor de Engenharia
+Professor de Engenharia Ambiental
+Professor de Engenharia Civil
+Professor de Engenharia da Computação
+Professor de Engenharia de Produção
+Professor de Engenharia Elétrica
+Professor de Engenharia Mecânica
+Professor de Engenharia Mecatrônica
+Professor de Ensino a Distância
+Professor de Ensino Fundamental
+Professor de Ensino Médio
+Professor de Ensino Religioso
+Professor de Ensino Técnico
+Professor de Espanhol
+Professor de Estatística
+Professor de Estética e Cosmetologia
+Professor de Ética
+Professor de Expressão Corporal
+Professor de Farmácia
+Professor de Filosofia
+Professor de Física
+Professor de Fisioterapia
+Professor de Fotografia
+Professor de Francês
+Professor de Futebol
+Professor de Gastronomia
+Professor de Geografia
+Professor de Gestão Ambiental
+Professor de Gestão da Qualidade
+Professor de Gestão de Projetos
+Professor de Gestão Financeira
+Professor de Gestão Hospitalar
+Professor de Ginástica
+Professor de Ginástica Laboral
+Professor de Grego
+Professor de Hebraico
+Professor de Hidroginástica
+Professor de História
+Professor de Holandês
+Professor de Hotelaria
+Professor de Hotelaria e Turismo
+Professor de Idiomas
+Professor de Informática
+Professor de Inglês
+Professor de Inglês e Espanhol
+Professor de Inglês e Português
+Professor de Italiano
+Professor de Japonês
+Professor de Jornalismo
+Professor de Letras
+Professor de Libras
+Professor de Literatura
+Professor de Logística
+Professor de Mandarim
+Professor de Manicure
+Professor de Maquiagem
+Professor de Marketing
+Professor de Massoterapia
+Professor de Matemática
+Professor de Matemática Financeira
+Professor de Mecânica
+Professor de Mecânica Aeronáutica
+Professor de Medicina
+Professor de Medicina do Trabalho
+Professor de Métodos e Processos
+Professor de Moda
+Professor de Musculação
+Professor de Música
+Professor de Natação
+Professor de Norueguês
+Professor de Nutrição
+Professor de Odontologia
+Professor de Oracle
+Professor de Pedagogia
+Professor de Petróleo e Gás
+Professor de Photoshop
+Professor de PHP
+Professor de Pintura em Tela
+Professor de Podologia
+Professor de Português
+Professor de Programação de Computadores
+Professor de Programação de Redes
+Professor de Prótese Dentária
+Professor de Psicanálise
+Professor de Psicologia
+Professor de Psicopedagogia
+Professor de Publicidade e Propaganda
+Professor de Química
+Professor de Radiologia
+Professor de Recreação
+Professor de Recursos Humanos
+Professor de Redação
+Professor de Relações Públicas
+Professor de Robótica
+Professor de Russo
+Professor de Secretariado
+Professor de Segurança do Trabalho
+Professor de Serviço Social
+Professor de Sistemas de Informação
+Professor de Sociologia
+Professor de SQL
+Professor de Sueco
+Professor de Teatro
+Professor de Tecnologia da Informação
+Professor de Telemarketing
+Professor de Tênis
+Professor de Teologia
+Professor de Turismo
+Professor de Vendas
+Professor de Veterinária
+Professor de Violão
+Professor de Visual Basic
+Professor de Web Design
+Professor de Windows
+Professor de Xadrez
+Professor de Yoga
+Professor de Zootecnia
+Professor Universitário
+Programador
+Programador .NET
+Programador ABAP
+Programador ADVPL
+Programador Android
+Programador ASP
+Programador ASP.NET
+Programador Back-end
+Programador BPM
+Programador C
+Programador C#
+Programador C++
+Programador Clipper
+Programador CLP
+Programador CNC
+Programador COBOL
+Programador de Banco de Dados
+Programador de Bordado
+Programador de Business Intelligence
+Programador de Centro de Usinagem
+Programador de Jogos
+Programador de Manutenção
+Programador de Materiais
+Programador de Produção
+Programador de Software
+Programador Delphi
+Programador Dynamics
+Programador ETL
+Programador Flash
+Programador Flex
+Programador Forms Reports
+Programador Front-end
+Programador Genexus
+Programador iOS
+Programador Java
+Programador JavaScript
+Programador Linux
+Programador Microsiga
+Programador Mobile
+Programador Oracle
+Programador PHP
+Programador PL SQL
+Programador PowerBuilder
+Programador Progress
+Programador Protheus
+Programador Python
+Programador QlikView
+Programador Ruby on Rails
+Programador SAP
+Programador SharePoint
+Programador SOA
+Programador SQL
+Programador Trainee
+Programador Visual
+Programador Visual Basic
+Programador Visual FoxPro
+Programador Web
+Projetista
+Projetista 3D
+Projetista Cadista
+Projetista Civil
+Projetista de Ar Condicionado
+Projetista de Automação
+Projetista de Estruturas Metálicas
+Projetista de Ferramentas
+Projetista de Iluminação
+Projetista de Instalações
+Projetista de Máquinas
+Projetista de Moldes
+Projetista de Móveis
+Projetista de Produto
+Projetista de Telecomunicações
+Projetista Elétrico
+Projetista Eletrônico
+Projetista Hidráulico
+Projetista Mecânico
+Projetista Orçamentista
+Promotor de Crédito
+Promotor de Eventos
+Promotor de Financiamento
+Promotor de Merchandising
+Promotor de Vendas
+Promotor Técnico
+Propagandista
+Protético
+Psicólogo
+Psicólogo Clínico
+Psicólogo do Trânsito
+Psicólogo Escolar
+Psicólogo Hospitalar
+Psicólogo Organizacional
+Psicólogo Social
+Psicomotricista
+Psicopedagogo
+Publicitário
+Químico
+Químico Industrial
+Químico Responsável
+Radialista
+Rasteleiro
+Rebarbador de Metais
+Rebobinador
+Recebedor
+Recepcionista
+Recepcionista de Hotel
+Recepcionista Hospitalar
+Recreador
+Recuperador de Crédito
+Redator
+Redator Publicitário
+Redator Web
+Regulador de Sinistros
+Relações Públicas
+Relojoeiro
+Repórter
+Repositor
+Repositor de Perecíveis
+Representante Comercial
+Retificador
+Revisor de Tecidos
+Revisor de Texto
+Rigger
+Robotista
+Roteirista
+Roteirizador
+Saladeiro
+Salgadeiro
+Salva Vidas
+Sapateiro
+Scouter
+Scrum Master
+Secretária
+Secretária Comercial
+Secretária Escolar
+Secretária Executiva
+Secretária Financeira
+Segurança
+Segurança Patrimonial
+Selecionador
+Separador de Mercadorias
+Serralheiro
+Servente de Obras
+Sinaleiro
+Síndico
+Sociólogo
+Socorrista
+Soldador
+Soldador Montador
+Sommelier
+Sondador
+Sonoplasta
+Sorveteiro
+Steward
+Superintendente Comercial
+Superintendente de Operações
+Supervisor Administrativo
+Supervisor Agrícola
+Supervisor Comercial
+Supervisor Contábil
+Supervisor de Alimentos e Bebidas
+Supervisor de Almoxarifado
+Supervisor de Arquivo
+Supervisor de Assistência Técnica
+Supervisor de Atendimento ao Cliente
+Supervisor de Auditoria
+Supervisor de Automação
+Supervisor de Back Office
+Supervisor de Caixa
+Supervisor de Caldeiraria
+Supervisor de Call Center
+Supervisor de Campo
+Supervisor de Cobrança
+Supervisor de Comércio Exterior

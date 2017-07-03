@@ -1,0 +1,513 @@
+Supervisor de Compras
+Supervisor de Condomínio
+Supervisor de Contas
+Supervisor de Contas a Pagar
+Supervisor de Contas a Receber
+Supervisor de Contratos
+Supervisor de Controladoria
+Supervisor de Controle de Qualidade
+Supervisor de Costura
+Supervisor de Crédito
+Supervisor de Crédito e Cobrança
+Supervisor de Crédito Imobiliário
+Supervisor de Custos
+Supervisor de Departamento Pessoal
+Supervisor de E-commerce
+Supervisor de Elétrica
+Supervisor de Engenharia
+Supervisor de Estamparia
+Supervisor de Eventos
+Supervisor de Expedição
+Supervisor de Facilities
+Supervisor de Farmácia
+Supervisor de Faturamento
+Supervisor de Ferramentaria
+Supervisor de Filial
+Supervisor de Folha de Pagamento
+Supervisor de Frota
+Supervisor de Fundição
+Supervisor de Garantia da Qualidade
+Supervisor de Hotelaria
+Supervisor de Infraestrutura
+Supervisor de Injeção Plástica
+Supervisor de Instalação
+Supervisor de Inteligência de Mercado
+Supervisor de Laboratório
+Supervisor de Lavanderia
+Supervisor de Limpeza
+Supervisor de Locação
+Supervisor de Logística
+Supervisor de Loja
+Supervisor de Manutenção
+Supervisor de Manutenção Automotiva
+Supervisor de Manutenção Elétrica
+Supervisor de Manutenção Eletromecânica
+Supervisor de Manutenção Industrial
+Supervisor de Manutenção Mecânica
+Supervisor de Manutenção Predial
+Supervisor de Marketing
+Supervisor de Meio Ambiente
+Supervisor de Merchandising
+Supervisor de Mineração
+Supervisor de Monitoramento
+Supervisor de Monitoria
+Supervisor de Montagem
+Supervisor de Negócios
+Supervisor de Nutrição
+Supervisor de Obras
+Supervisor de Operações
+Supervisor de Ouvidoria
+Supervisor de Patrimônio
+Supervisor de PCP
+Supervisor de Peças
+Supervisor de Pintura
+Supervisor de Planejamento
+Supervisor de Pós-venda
+Supervisor de Prevenção de Perdas
+Supervisor de Processos
+Supervisor de Produção
+Supervisor de Produtos
+Supervisor de Projeto Social
+Supervisor de Projetos
+Supervisor de Qualidade
+Supervisor de Radiologia
+Supervisor de Recepção
+Supervisor de Recrutamento e Seleção
+Supervisor de Recursos Humanos
+Supervisor de Refrigeração
+Supervisor de Relacionamento
+Supervisor de Reservas
+Supervisor de Restaurante
+Supervisor de SAC
+Supervisor de Segurança do Trabalho
+Supervisor de Segurança Patrimonial
+Supervisor de Seguros
+Supervisor de Serviços Gerais
+Supervisor de Suprimentos
+Supervisor de Tecnologia da Informação
+Supervisor de Tesouraria
+Supervisor de Trade Marketing
+Supervisor de Transportes
+Supervisor de Treinamento e Desenvolvimento
+Supervisor de Usinagem
+Supervisor de Vendas
+Supervisor Financeiro
+Supervisor Florestal
+Supervisor Industrial
+Supervisor Pedagógico
+Supervisor Técnico
+Supervisor Tributário
+Suporte Técnico
+Sushiman
+Tapeceiro
+Tapeceiro de Veículos
+Tecelão
+Técnico Administrativo
+Técnico Agrícola
+Técnico Bancário
+Técnico Comercial
+Técnico Contábil
+Técnico da Qualidade
+Técnico de Arquivo
+Técnico de Assistência Técnica
+Técnico de Atendimento
+Técnico de Campo
+Técnico de Celular
+Técnico de Controle de Qualidade
+Técnico de Equipamentos
+Técnico de Equipamentos Médicos
+Técnico de Eventos
+Técnico de Gasoterapia
+Técnico de Gesso
+Técnico de Help Desk
+Técnico de Iluminação
+Técnico de Implantação
+Técnico de Impressora
+Técnico de Infraestrutura
+Técnico de Instalação
+Técnico de Laboratório
+Técnico de Laboratório Industrial
+Técnico de Manutenção de Computadores
+Técnico de Manutenção Elétrica
+Técnico de Manutenção Industrial
+Técnico de Manutenção Predial
+Técnico de Materiais
+Técnico de Monitoramento
+Técnico de Montagem
+Técnico de Planejamento
+Técnico de Planejamento de Manutenção
+Técnico de Processos
+Técnico de Produção
+Técnico de Produto
+Técnico de Redes
+Técnico de Service Desk
+Técnico de Sinistro
+Técnico de Som
+Técnico de Suporte
+Técnico de Tacógrafo
+Técnico de Testes
+Técnico de Vendas
+Técnico Eletricista
+Técnico Eletroeletrônico
+Técnico Eletromecânico
+Técnico em Agrimensura
+Técnico em Agropecuária
+Técnico em Alimentos
+Técnico em Análises Clínicas
+Técnico em Áudio e Vídeo
+Técnico em Automação Bancária
+Técnico em Automação Industrial
+Técnico em Automação Predial
+Técnico em Biblioteconomia
+Técnico em Cabeamento
+Técnico em CFTV
+Técnico em Documentação
+Técnico em Edificações
+Técnico em Eletrocardiograma
+Técnico em Eletroencefalograma
+Técnico em Eletrônica
+Técnico em Eletrotécnica
+Técnico em Enfermagem
+Técnico em Enfermagem do Trabalho
+Técnico em Espirometria
+Técnico em Esquadrias de Alumínio
+Técnico em Estradas
+Técnico em Farmácia
+Técnico em Fibras Ópticas
+Técnico em Gastronomia
+Técnico em Geoprocessamento
+Técnico em Hemoterapia
+Técnico em Imobilização Ortopédica
+Técnico em Informática
+Técnico em Inspeção de Equipamentos
+Técnico em Instrumentação
+Técnico em Licitação
+Técnico em Logística
+Técnico em Lubrificação
+Técnico em Manutenção
+Técnico em Manutenção Automotiva
+Técnico em Manutenção de Elevadores
+Técnico em Mecânica
+Técnico em Mecatrônica
+Técnico em Medição
+Técnico em Meio Ambiente
+Técnico em Metalurgia
+Técnico em Metrologia
+Técnico em Mineração
+Técnico em Nutrição
+Técnico em Óptica
+Técnico em Optometria
+Técnico em Orientação e Mobilidade
+Técnico em Panificação
+Técnico em Plásticos
+Técnico em Polissonografia
+Técnico em Processos Industriais
+Técnico em Projetos
+Técnico em Química
+Técnico em Radiologia
+Técnico em Recursos Humanos
+Técnico em Refrigeração
+Técnico em Saneamento
+Técnico em Saúde Bucal
+Técnico em Secretariado
+Técnico em Segurança do Trabalho
+Técnico em Segurança e Meio Ambiente
+Técnico em Segurança Eletrônica
+Técnico em Seguros
+Técnico em Tecnologia da Informação
+Técnico em Telecomunicações
+Técnico em Turismo
+Técnico Financeiro
+Técnico Florestal
+Técnico Hidráulico
+Técnico Industrial
+Técnico Mecânico de Manutenção
+Técnico Operacional
+Técnico Orçamentista
+Técnico Projetista
+Técnico Têxtil
+Tecnólogo em Alimentos
+Tecnólogo em Construção Civil
+Tecnólogo em Mecânica
+Tecnólogo em Radiologia
+Tecnólogo em Redes de Computadores
+Tecnólogo em Saneamento Ambiental
+Telefonista
+Telefonista Recepcionista
+Telhadista
+Terapeuta Ocupacional
+Tesoureiro
+Tintureiro
+Topógrafo
+Torneiro Ferramenteiro
+Torneiro Mecânico
+Tosador
+Traçador de Caldeiraria
+Trader
+Tradutor
+Tradutor de Alemão
+Tradutor de Árabe
+Tradutor de Chinês
+Tradutor de Coreano
+Tradutor de Espanhol
+Tradutor de Francês
+Tradutor de Inglês
+Tradutor de Italiano
+Tradutor de Japonês
+Tradutor de Mandarim
+Trainee em Administração de Empresas
+Trainee em Agronomia
+Trainee em Arquitetura e Urbanismo
+Trainee em Ciências Contábeis
+Trainee em Direito
+Trainee em Economia
+Trainee em Engenharia
+Trainee em Engenharia Civil
+Trainee em Engenharia de Produção
+Trainee em Engenharia Elétrica
+Trainee em Engenharia Mecânica
+Trainee em Engenharia Química
+Trainee em Marketing
+Trainee em Nutrição
+Trainee em Recursos Humanos
+Trainee em Suporte Técnico
+Trainee em Vendas
+Trainee na área Comercial
+Trainee na área de Compras
+Trainee na área de Departamento Pessoal
+Trainee na área de Tecnologia da Informação
+Trainee na área Financeira
+Trainee na área Fiscal
+Trainee na área Industrial
+Tratador de Piscina
+Tratorista
+Trefilador
+Trocador de Moldes
+Turismólogo
+Tapeceiro
+Tapeceiro de Veículos
+Tecelão
+Técnico Administrativo
+Técnico Agrícola
+Técnico Bancário
+Técnico Comercial
+Técnico Contábil
+Técnico da Qualidade
+Técnico de Arquivo
+Técnico de Assistência Técnica
+Técnico de Atendimento
+Técnico de Campo
+Técnico de Celular
+Técnico de Controle de Qualidade
+Técnico de Equipamentos
+Técnico de Equipamentos Médicos
+Técnico de Eventos
+Técnico de Gasoterapia
+Técnico de Gesso
+Técnico de Help Desk
+Técnico de Iluminação
+Técnico de Implantação
+Técnico de Impressora
+Técnico de Infraestrutura
+Técnico de Instalação
+Técnico de Laboratório
+Técnico de Laboratório Industrial
+Técnico de Manutenção de Computadores
+Técnico de Manutenção Elétrica
+Técnico de Manutenção Industrial
+Técnico de Manutenção Predial
+Técnico de Materiais
+Técnico de Monitoramento
+Técnico de Montagem
+Técnico de Planejamento
+Técnico de Planejamento de Manutenção
+Técnico de Processos
+Técnico de Produção
+Técnico de Produto
+Técnico de Redes
+Técnico de Service Desk
+Técnico de Sinistro
+Técnico de Som
+Técnico de Suporte
+Técnico de Tacógrafo
+Técnico de Testes
+Técnico de Vendas
+Técnico Eletricista
+Técnico Eletroeletrônico
+Técnico Eletromecânico
+Técnico em Agrimensura
+Técnico em Agropecuária
+Técnico em Alimentos
+Técnico em Análises Clínicas
+Técnico em Áudio e Vídeo
+Técnico em Automação Bancária
+Técnico em Automação Industrial
+Técnico em Automação Predial
+Técnico em Biblioteconomia
+Técnico em Cabeamento
+Técnico em CFTV
+Técnico em Documentação
+Técnico em Edificações
+Técnico em Eletrocardiograma
+Técnico em Eletroencefalograma
+Técnico em Eletrônica
+Técnico em Eletrotécnica
+Técnico em Enfermagem
+Técnico em Enfermagem do Trabalho
+Técnico em Espirometria
+Técnico em Esquadrias de Alumínio
+Técnico em Estradas
+Técnico em Farmácia
+Técnico em Fibras Ópticas
+Técnico em Gastronomia
+Técnico em Geoprocessamento
+Técnico em Hemoterapia
+Técnico em Imobilização Ortopédica
+Técnico em Informática
+Técnico em Inspeção de Equipamentos
+Técnico em Instrumentação
+Técnico em Licitação
+Técnico em Logística
+Técnico em Lubrificação
+Técnico em Manutenção
+Técnico em Manutenção Automotiva
+Técnico em Manutenção de Elevadores
+Técnico em Mecânica
+Técnico em Mecatrônica
+Técnico em Medição
+Técnico em Meio Ambiente
+Técnico em Metalurgia
+Técnico em Metrologia
+Técnico em Mineração
+Técnico em Nutrição
+Técnico em Óptica
+Técnico em Optometria
+Técnico em Orientação e Mobilidade
+Técnico em Panificação
+Técnico em Plásticos
+Técnico em Polissonografia
+Técnico em Processos Industriais
+Técnico em Projetos
+Técnico em Química
+Técnico em Radiologia
+Técnico em Recursos Humanos
+Técnico em Refrigeração
+Técnico em Saneamento
+Técnico em Saúde Bucal
+Técnico em Secretariado
+Técnico em Segurança do Trabalho
+Técnico em Segurança e Meio Ambiente
+Técnico em Segurança Eletrônica
+Técnico em Seguros
+Técnico em Tecnologia da Informação
+Técnico em Telecomunicações
+Técnico em Turismo
+Técnico Financeiro
+Técnico Florestal
+Técnico Hidráulico
+Técnico Industrial
+Técnico Mecânico de Manutenção
+Técnico Operacional
+Técnico Orçamentista
+Técnico Projetista
+Técnico Têxtil
+Tecnólogo em Alimentos
+Tecnólogo em Construção Civil
+Tecnólogo em Mecânica
+Tecnólogo em Radiologia
+Tecnólogo em Redes de Computadores
+Tecnólogo em Saneamento Ambiental
+Telefonista
+Telefonista Recepcionista
+Telhadista
+Terapeuta Ocupacional
+Tesoureiro
+Tintureiro
+Topógrafo
+Torneiro Ferramenteiro
+Torneiro Mecânico
+Tosador
+Traçador de Caldeiraria
+Trader
+Tradutor
+Tradutor de Alemão
+Tradutor de Árabe
+Tradutor de Chinês
+Tradutor de Coreano
+Tradutor de Espanhol
+Tradutor de Francês
+Tradutor de Inglês
+Tradutor de Italiano
+Tradutor de Japonês
+Tradutor de Mandarim
+Trainee em Administração de Empresas
+Trainee em Agronomia
+Trainee em Arquitetura e Urbanismo
+Trainee em Ciências Contábeis
+Trainee em Direito
+Trainee em Economia
+Trainee em Engenharia
+Trainee em Engenharia Civil
+Trainee em Engenharia de Produção
+Trainee em Engenharia Elétrica
+Trainee em Engenharia Mecânica
+Trainee em Engenharia Química
+Trainee em Marketing
+Trainee em Nutrição
+Trainee em Recursos Humanos
+Trainee em Suporte Técnico
+Trainee em Vendas
+Trainee na área Comercial
+Trainee na área de Compras
+Trainee na área de Departamento Pessoal
+Trainee na área de Tecnologia da Informação
+Trainee na área Financeira
+Trainee na área Fiscal
+Trainee na área Industrial
+Tratador de Piscina
+Tratorista
+Trefilador
+Trocador de Moldes
+Turismólogo
+Vendedor
+Vendedor de Consórcio
+Vendedor de E-commerce
+Vendedor de Franquias
+Vendedor de Frete
+Vendedor de Informática
+Vendedor de Loja
+Vendedor de Máquinas
+Vendedor de Seguros
+Vendedor de Telecomunicações
+Vendedor de Veículos
+Vendedor Externo
+Vendedor Industrial
+Vendedor Projetista
+Vendedor Técnico
+Veterinário
+Veterinário Patologista
+Videografista
+Vidraceiro
+Vigia
+Vigilante
+Vigilante de Escolta
+Vigilante Líder
+Visitador de Navios
+Vistoriador de Imóveis
+Vistoriador de Veículos
+Visual Merchandiser
+Vitrinista
+Web Designer
+Web Designer Trainee
+Web Developer
+Webmaster
+Web Designer
+Web Designer Trainee
+Web Developer
+Webmaster
+Web Designer
+Web Designer Trainee
+Web Developer
+Webmaster
+Zelador
+Zootecnista

@@ -1,0 +1,508 @@
+Atendente de Delivery
+Atendente de E-commerce
+Atendente de Help Desk
+Atendente de Marketing
+Atendente de Nutrição
+Atendente de Pista
+Atendente de Pós-venda
+Atendente de Restaurante
+Atendente de SAC
+Atendente de Service Desk
+Atendente de Sinistro
+Atendente de Suporte Técnico
+Atendente de Turismo
+Atendimento Publicitário
+Ator
+Atuário
+Auditor
+Auditor Contábil
+Auditor de Contas Médicas
+Auditor de Estoque
+Auditor de Loja
+Auditor de Processos
+Auditor de Qualidade
+Auditor de Sistemas
+Auditor Externo
+Auditor Financeiro
+Auditor Fiscal
+Auditor Interno
+Auditor Noturno
+Auditor Trainee
+Auxiliar Administrativo
+Auxiliar Comercial
+Auxiliar Contábil
+Auxiliar de Acabamento Gráfico
+Auxiliar de Açougue
+Auxiliar de Almoxarifado
+Auxiliar de Arquitetura
+Auxiliar de Arquivo
+Auxiliar de Assistência Técnica
+Auxiliar de Atendimento
+Auxiliar de Auditoria
+Auxiliar de Back Office
+Auxiliar de Banco de Dados
+Auxiliar de Banco de Sangue
+Auxiliar de Barman
+Auxiliar de Benefícios
+Auxiliar de Biblioteca
+Auxiliar de Biotério
+Auxiliar de Bordado
+Auxiliar de Borracharia
+Auxiliar de Cabeleireiro
+Auxiliar de Campo
+Auxiliar de Carga e Descarga
+Auxiliar de Cartório
+Auxiliar de Classe
+Auxiliar de Cobrança
+Auxiliar de Coleta
+Auxiliar de Comércio Exterior
+Auxiliar de Compras
+Auxiliar de Confeitaria
+Auxiliar de Contas a Pagar
+Auxiliar de Contas a Pagar e Receber
+Auxiliar de Contas a Receber
+Auxiliar de Contas Médicas
+Auxiliar de Contratos
+Auxiliar de Controle de Qualidade
+Auxiliar de Corte
+Auxiliar de Costura
+Auxiliar de Cozinha
+Auxiliar de Crédito
+Auxiliar de Crédito e Cobrança
+Auxiliar de Criação
+Auxiliar de Departamento Pessoal
+Auxiliar de Desenhista
+Auxiliar de Desenvolvimento de Produto
+Auxiliar de Designer Gráfico
+Auxiliar de Despachante
+Auxiliar de E-commerce
+Auxiliar de Eletricista
+Auxiliar de Enfermagem
+Auxiliar de Enfermagem do Trabalho
+Auxiliar de Engenharia
+Auxiliar de Engenharia Civil
+Auxiliar de Escritório
+Auxiliar de Estética
+Auxiliar de Estilo
+Auxiliar de Estoque
+Auxiliar de Expedição
+Auxiliar de Extrusão
+Auxiliar de Farmácia
+Auxiliar de Faturamento
+Auxiliar de Faturamento Hospitalar
+Auxiliar de Folha de Pagamento
+Auxiliar de Fotografia
+Auxiliar de Frota
+Auxiliar de Garantia
+Auxiliar de Governança
+Auxiliar de Impressão
+Auxiliar de Informática
+Auxiliar de Infraestrutura
+Auxiliar de Instalação
+Auxiliar de Inventário
+Auxiliar de Jardinagem
+Auxiliar de Laboratório
+Auxiliar de Lavanderia
+Auxiliar de Legalização
+Auxiliar de Limpeza
+Auxiliar de Locação
+Auxiliar de Logística
+Auxiliar de Loja
+Auxiliar de Manipulação
+Auxiliar de Manutenção
+Auxiliar de Manutenção Elétrica
+Auxiliar de Manutenção Hidráulica
+Auxiliar de Manutenção Industrial
+Auxiliar de Manutenção Mecânica
+Auxiliar de Manutenção Predial
+Auxiliar de Marketing
+Auxiliar de Marketing Digital
+Auxiliar de Mecânico
+Auxiliar de Merchandising
+Auxiliar de Mídia
+Auxiliar de Modelagem
+Auxiliar de Modelista
+Auxiliar de Monitoramento
+Auxiliar de Montagem
+Auxiliar de Oftalmologia
+Auxiliar de Orçamento
+Auxiliar de Ourives
+Auxiliar de Padeiro
+Auxiliar de Pátio
+Auxiliar de Patrimônio
+Auxiliar de PCP
+Auxiliar de Perecíveis
+Auxiliar de Pesagem
+Auxiliar de Pesquisa de Mercado
+Auxiliar de Pintura
+Auxiliar de Pós-venda
+Auxiliar de Processos
+Auxiliar de Produção
+Auxiliar de Prótese Dentária
+Auxiliar de Publicidade e Propaganda
+Auxiliar de Qualidade
+Auxiliar de Rastreamento
+Auxiliar de Recebimento
+Auxiliar de Recebimento Fiscal
+Auxiliar de Recreação
+Auxiliar de Recrutamento e Seleção
+Auxiliar de Recursos Humanos
+Auxiliar de Refrigeração
+Auxiliar de Reposição
+Auxiliar de Restaurante
+Auxiliar de Saúde Bucal
+Auxiliar de Secretaria Escolar
+Auxiliar de Segurança Patrimonial
+Auxiliar de Seguros
+Auxiliar de Serviços Gerais
+Auxiliar de Sinistro
+Auxiliar de Soldador
+Auxiliar de Sondagem
+Auxiliar de Supervisão
+Auxiliar de Suporte Técnico
+Auxiliar de Suprimentos
+Auxiliar de Sushiman
+Auxiliar de Tecelão
+Auxiliar de Tecnologia da Informação
+Auxiliar de Televendas
+Auxiliar de Tesouraria
+Auxiliar de Topografia
+Auxiliar de Trade Marketing
+Auxiliar de Transportes
+Auxiliar de Treinamento e Desenvolvimento
+Auxiliar de Triagem
+Auxiliar de Usinagem
+Auxiliar de Vendas
+Auxiliar de Veterinário
+Auxiliar Editorial
+Auxiliar Eletrotécnico
+Auxiliar Financeiro
+Auxiliar Fiscal
+Auxiliar Industrial
+Auxiliar Operacional
+Auxiliar Pedagógico
+Auxiliar Projetista
+Auxiliar Químico
+Auxiliar Técnico
+Auxiliar Técnico de Mecânica
+Auxiliar Técnico Eletrônico
+Auxiliar Técnico em Edificações
+Auxiliar Técnico em Mecatrônica
+Auxiliar Técnico em Segurança do Trabalho
+Auxiliar Tributário
+Avaliador de Imóveis
+Avaliador de Veículos
+Avaliador Físico
+Azulejista
+Babá
+Back Office
+Back Office de Vendas
+Balanceiro
+Balconista
+Bamburista
+Barista
+Barman
+Berçarista
+Bibliotecário
+Bilheteiro
+Biologista
+Biólogo
+Biomédico
+Bioquímico
+Biotecnólogo
+Blaster
+Blogueiro
+Bloquista
+Bombeiro Civil
+Bombeiro Industrial
+Booker
+Bordador
+Borracheiro
+Business Partner
+Cabeleireiro
+Cabista
+Caixa de Banco
+Calceteiro
+Calculista
+Caldeireiro
+Camareiro
+Caracterizador
+Carpinteiro
+Cartazista
+Carteiro
+Caseiro
+Cenógrafo
+Cenotécnico
+Chapeiro
+Chaveiro
+Chefe de Bar
+Chefe de Compras
+Chefe de Confeitaria
+Chefe de Costura
+Chefe de Cozinha
+Chefe de Departamento Pessoal
+Chefe de Expedição
+Chefe de Fila
+Chefe de Plantão Médico
+Chefe de Produção
+Chefe de Recepção
+Churrasqueiro
+Cilindrista
+Cinegrafista
+Classificador de Grãos
+Cliente Oculto
+Coach
+Cobrador de Ônibus
+Codificador de Dados
+Colchoeiro
+Coletor de Amostras
+Coletor de Lixo
+Colocador de Papel de Parede
+Colorista
+Colorista de Papel
+Colorista Têxtil
+Comissário de Avarias
+Comissário de Bordo
+Comprador
+Comprador de Medicamentos
+Comprador Internacional
+Comprador Técnico
+Comunicador Social
+Concierge
+Confeiteiro
+Conferente
+Conferente de Tesouraria
+Conferente Líder
+Conselheiro Tutelar
+Consultor ABAP
+Consultor Ambiental
+Consultor Contábil
+Consultor CRM
+Consultor de Atendimento
+Consultor de Beleza
+Consultor de Benefícios
+Consultor de Comércio Exterior
+Consultor de Comunicação
+Consultor de Controladoria
+Consultor de Crédito Imobiliário
+Consultor de Estética
+Consultor de Eventos
+Consultor de Franquias
+Consultor de Imigração
+Consultor de Implantação
+Consultor de Infraestrutura
+Consultor de Inteligência de Mercado
+Consultor de Intercâmbio
+Consultor de Investimentos
+Consultor de Logística
+Consultor de Loja
+Consultor de Marketing
+Consultor de Merchandising
+Consultor de Moda
+Consultor de Negócios
+Consultor de Operações
+Consultor de Planejamento Estratégico
+Consultor de Pós-venda
+Consultor de Processos
+Consultor de Projetos
+Consultor de Qualidade
+Consultor de Recrutamento e Seleção
+Consultor de Recursos Humanos
+Consultor de Redes
+Consultor de Relacionamento
+Consultor de Responsabilidade Social
+Consultor de Segurança da Informação
+Consultor de Seguros
+Consultor de Sistemas
+Consultor de Tecnologia da Informação
+Consultor de Trade Marketing
+Consultor de Treinamento e Desenvolvimento
+Consultor de Vendas
+Consultor Educacional
+Consultor Empresarial
+Consultor ERP
+Consultor Financeiro
+Consultor Fiscal
+Consultor Funcional
+Consultor Gastronômico
+Consultor Jurídico
+Consultor Mastersaf
+Consultor Oracle
+Consultor Pedagógico
+Consultor SAP
+Consultor Siebel
+Consultor Técnico
+Consultor Técnico de Veículos
+Consultor Técnico Industrial
+Consultor Tributário
+Contabilista
+Contador
+Contador Gerencial
+Contato Publicitário
+Conteudista
+Contínuo
+Contra-regra
+Controlador de Custos
+Controlador de Pátio
+Controlador de Produção
+Controlador de Qualidade
+Controlador de Tráfego
+Controlador de Tráfego Aéreo
+Controller
+Coordenador Administrativo
+Coordenador Administrativo de Obras
+Coordenador Comercial
+Coordenador Contábil
+Coordenador de Alimentos e Bebidas
+Coordenador de Almoxarifado
+Coordenador de Armazém
+Coordenador de Assistência Técnica
+Coordenador de Assuntos Regulatórios
+Coordenador de Atendimento ao Cliente
+Coordenador de Auditoria
+Coordenador de Benefícios
+Coordenador de Biblioteca
+Coordenador de Business Intelligence
+Coordenador de Campo
+Coordenador de Cargos e Salários
+Coordenador de Cobrança
+Coordenador de Comércio Exterior
+Coordenador de Compras
+Coordenador de Comunicação
+Coordenador de Contas
+Coordenador de Contas a Pagar
+Coordenador de Contas a Receber
+Coordenador de Contas Médicas
+Coordenador de Contratos
+Coordenador de Controladoria
+Coordenador de Controles Internos
+Coordenador de Credenciamento
+Coordenador de Crédito
+Coordenador de Crédito e Cobrança
+Coordenador de Crédito Imobiliário
+Coordenador de CRM
+Coordenador de Customer Service
+Coordenador de Custos
+Coordenador de Departamento Pessoal
+Coordenador de Desenvolvimento de Sistemas
+Coordenador de E-commerce
+Coordenador de Enfermagem
+Coordenador de Engenharia
+Coordenador de Estilo
+Coordenador de Estoque
+Coordenador de Eventos
+Coordenador de Expedição
+Coordenador de Facilities
+Coordenador de Faturamento
+Coordenador de Ferramentaria
+Coordenador de Filial
+Coordenador de Folha de Pagamento
+Coordenador de Garantia da Qualidade
+Coordenador de Help Desk
+Coordenador de Hotelaria
+Coordenador de Implantação
+Coordenador de Incorporação
+Coordenador de Infraestrutura
+Coordenador de Instalações
+Coordenador de Inteligência de Mercado
+Coordenador de Inventário
+Coordenador de Investimentos
+Coordenador de Laboratório
+Coordenador de Legalização
+Coordenador de Licitação
+Coordenador de Limpeza
+Coordenador de Logística
+Coordenador de Loja
+Coordenador de Manutenção
+Coordenador de Manutenção Automotiva
+Coordenador de Manutenção Industrial
+Coordenador de Manutenção Predial
+Coordenador de Marketing
+Coordenador de Marketing Digital
+Coordenador de Meio Ambiente
+Coordenador de Melhoria Contínua
+Coordenador de Merchandising
+Coordenador de Mídia
+Coordenador de Mídias Sociais
+Coordenador de Negócios
+Coordenador de Obras
+Coordenador de Orçamento
+Coordenador de Patrimônio
+Coordenador de PCP
+Coordenador de Pesquisa de Mercado
+Coordenador de Pesquisa e Desenvolvimento
+Coordenador de Planejamento
+Coordenador de Pós-venda
+Coordenador de Prevenção de Perdas
+Coordenador de Pricing
+Coordenador de Processos
+Coordenador de Produção
+Coordenador de Produto
+Coordenador de Projeto Social
+Coordenador de Projetos
+Coordenador de Projetos de Construção Civil
+Coordenador de Qualidade
+Coordenador de Recepção
+Coordenador de Recrutamento e Seleção
+Coordenador de Recursos Humanos
+Coordenador de Redes
+Coordenador de Reservas
+Coordenador de Responsabilidade Social
+Coordenador de Restaurante
+Coordenador de Saúde, Segurança e Meio Ambiente
+Coordenador de Segurança da Informação
+Coordenador de Segurança do Trabalho
+Coordenador de Segurança Patrimonial
+Coordenador de Seguros
+Coordenador de Service Desk
+Coordenador de Serviços Gerais
+Coordenador de Sinistro
+Coordenador de Suporte Técnico
+Coordenador de Suprimentos
+Coordenador de Sustentabilidade
+Coordenador de Tecnologia da Informação
+Coordenador de Telecomunicações
+Coordenador de Tesouraria
+Coordenador de Topografia
+Coordenador de Trade Marketing
+Coordenador de Transportes
+Coordenador de Treinamento e Desenvolvimento
+Coordenador de Usinagem
+Coordenador de Vendas
+Coordenador de Visual Merchandising
+Coordenador Editorial
+Coordenador Eletrônico
+Coordenador Financeiro
+Coordenador Fiscal
+Coordenador Imobiliário
+Coordenador Industrial
+Coordenador Jurídico
+Coordenador Médico
+Coordenador Operacional
+Coordenador Pedagógico
+Coordenador Tributário
+Copeiro
+Copiador de Chapa
+Coreógrafo
+Corretor de Imóveis
+Corretor de Seguros
+Cortador
+Cortador de Tecidos
+Cortador de Vidro
+Costureiro
+Cozinheiro
+Crepeiro
+Cronoanalista
+Cuidador de Crianças
+Cuidador de Idosos
+Cumim
+Curador de Arte
+Dançarino
+Data Scientist
+DBA
+DBA Oracle
+DBA SQL
+Decorador
+Dedetizador
+Degustador
+Dentista
